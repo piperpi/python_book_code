@@ -1,0 +1,2 @@
+class Outbound(Exception):
+    pass

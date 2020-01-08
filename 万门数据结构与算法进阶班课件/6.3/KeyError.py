@@ -1,0 +1,2 @@
+class KeyError(Exception):
+    pass
